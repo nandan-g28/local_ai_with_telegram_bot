@@ -4,8 +4,8 @@ import threading
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-# Your regenerated token here (REGENERATE THIS ASAP!)
-TOKEN = "8315923650:AAGf7esZZtAiojBL6Nx7-Ao_3ffEA7Edtkg"
+# Your generated token here 
+TOKEN = "YOUR_ACTUAL_TOKEN_HERE"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Handle /start command"""
