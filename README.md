@@ -28,7 +28,7 @@ sudo systemctl start ollama
 
 ### 2. Clone this repository
 ```bash
-git clone https://github.com/yourusername/local-ai-telegram-bot.git
+git clone https://github.com/nandan-g28/local-ai-telegram-bot.git
 cd local-ai-telegram-bot
 ```
 
